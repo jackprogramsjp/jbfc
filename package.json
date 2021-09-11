@@ -1,0 +1,29 @@
+{
+  "name": "jbfc",
+  "version": "1.0.0",
+  "description": "Jack's BF Compiler written in OCaml",
+  "main": "jbfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jbfc": "jbfc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackprogramsjp/jbfc.git"
+  },
+  "keywords": [
+    "JBFC",
+    "BF",
+    "Compiler",
+    "BFC",
+    "OCaml"
+  ],
+  "author": "Jack Murrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackprogramsjp/jbfc/issues"
+  },
+  "homepage": "https://github.com/jackprogramsjp/jbfc#readme"
+}
